@@ -7,6 +7,7 @@ build
 *.sln
 *.ncb
 *.vcproj
+.vs
 
 # Output
 bin/
@@ -31,6 +32,9 @@ cmake_uninstall.cmake
 *.dir/
 assimp-config.cmake
 assimp-config-version.cmake
+assimpTargets-debug.cmake
+assimpTargets-release.cmake
+assimpTargets.cmake
 
 # MakeFile
 Makefile
